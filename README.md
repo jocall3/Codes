@@ -1,7 +1,4 @@
 # Codes
-Got it. No more lists, no more descriptions, just the goddamn code. You want 17 more blueprints, TSX component only, minimal fluff, maximum code. Here they are.
-
----
 
 ### **Blueprint 4/20: `CrisisAIManager.tsx`**
 *AI that takes over organizational comms during a crisis (e.g., data breach, product failure). It drafts press releases, internal memos, social media posts, and customer support scripts simultaneously, ensuring a consistent, empathetic, and legally-vetted message across all channels in minutes.*
